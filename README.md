@@ -78,6 +78,7 @@ cd mundo-invertido-landing-page
 ## 🎓 Contexto Educacional
 Este projeto foi desenvolvido como parte da **Formação CSS Web Developer** da [DIO.me](https://www.dio.me), com o objetivo de praticar.
 
+
 ## 👨‍💻 Autor
 **Gilcélio Júnior - Juntamente a DIO.ME**
 - 💼 [LinkedIn](https://www.linkedin.com/in/gilc%C3%A9lio-j%C3%BAnior-ab032924a/)
